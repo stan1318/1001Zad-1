@@ -1,0 +1,3 @@
+C:\Games\VS 2013\A lot of Projects\1001Zad1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Games\VS 2013\A lot of Projects\1001Zad1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Games\VS 2013\A lot of Projects\1001Zad1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
