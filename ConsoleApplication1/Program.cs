@@ -20,7 +20,7 @@ namespace ConsoleApplication1
         {
             int[] nums = new int[7];
            string[] newnums=new string[7];
-           Console.WriteLine("Type in the numbers you want to see:");
+           Console.WriteLine("Type in the numbers you want to see(On a single line with space between them):");
            newnums = Console.ReadLine().Split();
            for (int i = 0; i < 7; i++)
            { nums[i] = Convert.ToInt32(newnums[i]); }
